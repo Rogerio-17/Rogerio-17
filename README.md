@@ -27,6 +27,6 @@
 </div> <br/>
 	
 
-### Em busca da evolução sempre, as vezes pode até faltar tempo porem em nenhum momento vai faltar vontado de aprender. Sempre em busca dos meus objetivos.
+### Estou na busca de evoluir para me tornar um desenvolvedor frontend, porém após conseguir a incio na aréa tenho um foco de me tornar dev fullstack.
 
 
