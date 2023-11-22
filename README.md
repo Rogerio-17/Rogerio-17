@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Rogerio#6101)
 
 ![Rogério GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogerio-17&show_icons=true&theme=radical)
-![Rogério GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-17&theme=dracula&hide_border=false&&layout=compact)
+![Rogério GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-17&theme=radical&hide_border=false&&layout=compact)
 
 ## Tecnologias que eu uso no meu dia
 
