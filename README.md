@@ -27,6 +27,6 @@
 </div> <br/>
 	
 
-### Estou na busca de evoluir para me tornar um desenvolvedor frontend, porém após conseguir a incio na aréa tenho um foco de me tornar dev fullstack.
+### Estou na busca de evoluir para me tornar um desenvolvedor frontend, após conseguir que me especializar como fullstack.
 
 
