@@ -8,7 +8,7 @@
 ![Rogério GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogerio-17&show_icons=true&theme=radical)
 ![Rogério GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-17&theme=radical&hide_border=false&&layout=compact)
 
-## Tecnologias que eu uso no meu dia
+## Técnologias que eu utilizo no meu dia
 
 <div style="display: inline_block">
 <img align="center" alt="StyleComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
