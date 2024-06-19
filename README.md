@@ -28,9 +28,6 @@
 <div style="display: inline_block">
 <img align="center" alt="Css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
 <img align="center" alt="Css" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
-</div> <br/>
-	
-
-### Estou na busca de evoluir para me tornar um desenvolvedor frontend, após conseguir que me especializar como fullstack.
+</div>
 
 
