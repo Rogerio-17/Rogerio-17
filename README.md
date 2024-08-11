@@ -1,33 +1,50 @@
-### Olá! Eu sou o Rogério José ✌️
+# Olá, eu sou Rogério👋
 
-[![Gmail](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rog%C3%A9rio-jos%C3%A9-329a581aa/)
-[![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rogeriojose3556/)
-[![Whatsapp](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rogerio.jose.16906715)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@Rogerio#6101)
+## 🚀 Sobre Mim
+Sou um desenvolvedor Front-End apaixonado por criar aplicações web responsivas e amigáveis ao usuário. Adoro transformar designs em realidade utilizando as mais modernas tecnologias da web e estou sempre em busca de aprender e evoluir no dinâmico mundo da tecnologia.
 
-![Rogério GitHub stats](https://github-readme-stats.vercel.app/api?username=Rogerio-17&show_icons=true&theme=radical)
-![Rogério GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-17&theme=radical&hide_border=false&&layout=compact)
+- 🔭 Atualmente estou trabalhando na empresa buildCode como desenvolvedor front-end
+- 🛠️ Ferramentas atuais: **VS Code**, **Git**, **Figma**, **Chakra UI**, **Next JS**, **Type Script**
+- 🌱 Estou aprendendo **NodeJs**, **Vitest**, **SQL**, **Prisma**
+- 🎯 Objetivo atual: Aprofundar conhecimentos em backend, utilizando principalmente o NodeJs
 
-## Técnologias que eu utilizo no meu dia
+## 🛠️ Tecnologias e Ferramentas
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=fff)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=fff)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff)
+![Chakra UI](https://img.shields.io/badge/-Chakra%20UI-319795?logo=chakraui&logoColor=fff)
+![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=fff)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=fff)
+![Vitest](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=fff)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=fff)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=fff)
 
-<div style="display: inline_block">
-<img align="center" alt="StyleComponents" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-<img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-<img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-<img align="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-<img align="center" alt="NextJs" src="https://img.shields.io/badge/Next.js-000?logo=nextdotjs&logoColor=fff&style=for-the-badge">
+## 🔧 Ferramentas que Utilizo
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 
+## 📈 Estatísticas do GitHub
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rogerio-17&show_icons=true&theme=radical" alt="Estatísticas do GitHub de seu-usuario" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rogerio-17&layout=compact&theme=radical" alt="Principais Linguagens" />
+</p>
 
+## 🏆 Troféus do GitHub
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rogerio-17&theme=radical&margin-w=15" alt="Troféus do GitHub de seu-usuario" />
+</p>
 
+## 📫 Como me encontrar
+- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/rogério-josé-329a581aa/)
+- **Instagram**: [Seu Instagram](https://www.instagram.com/rogeriojose3556/)
+- **Email**: [Seu Email](mailto:rogeriojmf10@gmail.com)
 
-
-</div><br/>
-
-## Tecnologias pretendo estudar
-<div style="display: inline_block">
-<img align="center" alt="Css" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-<img align="center" alt="Css" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
-</div>
-
-
+⭐️ Feito por [Seu Nome](https://github.com/Rogerio-17)
