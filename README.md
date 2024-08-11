@@ -43,8 +43,8 @@ Sou um desenvolvedor Front-End apaixonado por criar aplicações web responsivas
 </p>
 
 ## 📫 Como me encontrar
-- **LinkedIn**: [Seu LinkedIn](https://www.linkedin.com/in/rogério-josé-329a581aa/)
-- **Instagram**: [Seu Instagram](https://www.instagram.com/rogeriojose3556/)
-- **Email**: [Seu Email](mailto:rogeriojmf10@gmail.com)
+- **LinkedIn**: [Rogério José](https://www.linkedin.com/in/rogério-josé-329a581aa/)
+- **Instagram**: [Rogeriojose3556](https://www.instagram.com/rogeriojose3556/)
+- **Email**: [rogeriojmf10@gmail.com](mailto:rogeriojmf10@gmail.com)
 
-⭐️ Feito por [Seu Nome](https://github.com/Rogerio-17)
+⭐️ Feito por [Rogério José](https://github.com/Rogerio-17)
