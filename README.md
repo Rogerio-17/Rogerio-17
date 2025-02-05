@@ -2,7 +2,7 @@
 
 ## 🚀 Sobre Mim
 
-Atualmente, atuo como desenvolvedor full-stack, trabalhando com tecnologias modernas para criar aplicações robustas e eficientes. No front-end, utilizo Next.js nas versões 12 e 14, em conjunto com Chakra UI e TypeScript, garantindo interfaces responsivas, acessíveis e com ótima experiência do usuário.
+Atualmente, atuo como desenvolvedor full-stack, trabalhando com tecnologias modernas para criar aplicações robustas e eficientes. No front-end, utilizo Next.js nas versões 14 e 15, em conjunto com Chakra UI e TypeScript, garantindo interfaces responsivas, acessíveis e com ótima experiência do usuário.
 
 Já no back-end, faço uso de Node.js, Prisma, NestJS, e TypeScript, combinando essas ferramentas com Docker para orquestrar ambientes e facilitar o desenvolvimento e a implantação das aplicações. Meu foco está em aplicar boas práticas de programação, como princípios de SOLID e DDD, para construir sistemas escaláveis e de alta qualidade.
 
